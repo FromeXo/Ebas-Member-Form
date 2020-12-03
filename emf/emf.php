@@ -14,7 +14,6 @@
  * Author:            Robin "FromeXo" Johansson
  * Author URI:        https://github.com/FromeXo/
  * License:           GPL-3.0-or-later
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       emf
  * Domain Path:       /languages
  */
